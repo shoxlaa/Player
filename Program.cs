@@ -8,6 +8,7 @@ namespace ConsoleApp1
 
     enum Buff { }
     enum Debuff { }
+    //new file 
 
     class Player
     {
