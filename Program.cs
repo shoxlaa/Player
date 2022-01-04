@@ -4,10 +4,6 @@ using System.Collections;
 
 namespace ConsoleApp1
 {
-
-    enum Buff {Speed, Invisibility, Saturation  }
-    enum Debuff {Slownes, Blindness, Hunger }
-
     class Program
     {
         static void Main(string[] args)
